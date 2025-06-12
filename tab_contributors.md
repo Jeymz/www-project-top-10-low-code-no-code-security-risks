@@ -11,13 +11,15 @@ tags: nocode
 
 Individuals that provided a significant contribution to the project:
 
-| Name | Affiliation | Contact |
-| --- | --- | --- |
-| Michael Bargury | Zenity | [Twitter](https://twitter.com/mbrg0) [LinkedIn](https://www.linkedin.com/in/michaelbargury/) |
-| Ory Segal | Palo Alto Networks | [Twitter](https://twitter.com/orysegal) [LinkedIn](https://www.linkedin.com/in/orysegal/) |
-| Don Willits | Microsoft | [LinkedIn](https://www.linkedin.com/in/don-willits-9081835/) |
-| John McTiernan | DT Group | [LinkedIn](https://www.linkedin.com/in/john-mctiernan/) |
-| Yianna Paris | Xebia | [LinkedIn](https://www.linkedin.com/in/salted-hash/) |
+| Name | Contributions | Affiliation | Contact |
+| --- | --- | --- | --- |
+| Michael Bargury | Project founder | Zenity | [Twitter](https://twitter.com/mbrg0) [LinkedIn](https://www.linkedin.com/in/michaelbargury/) |
+| Ory Segal | Project founder and leader | Palo Alto Networks | [Twitter](https://twitter.com/orysegal) [LinkedIn](https://www.linkedin.com/in/orysegal/) |
+| Don Willits | Core contributor | Microsoft | [LinkedIn](https://www.linkedin.com/in/don-willits-9081835/) |
+| John McTiernan | Core contributor | DT Group | [LinkedIn](https://www.linkedin.com/in/john-mctiernan/) |
+| Yianna Paris | Core contributor | Xebia | [LinkedIn](https://www.linkedin.com/in/salted-hash/) |
+| Kayla Underkoffler | Project leader | Zenity | [LinkedIn](https://www.linkedin.com/in/kayla-underkoffler-7400673a/) |
+| Ziv Daniel Hagbi | Project leader | Zenity | [LinkedIn](https://www.linkedin.com/in/ziv-hagbi/) |
 
 ## Sponsors
 
